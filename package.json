@@ -1,0 +1,16 @@
+{
+  "name": "bos-altyapi-v14",
+  "version": "0.0.1",
+  "description": "Faruk#6126 Tarafından Hazırlanmış Boş Altyapı",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Faruk#6126",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord-api-types": "^0.37.1",
+    "discord.js": "^14.2.0"
+  }
+}
